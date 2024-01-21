@@ -1,100 +1,100 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+	margin: 0;
+	padding: 0;
 }
-.page-heading{
-    text-align: center;
-    border: 2px solid;
-    width: 85vw;
-    margin: 30px auto;
-    padding: 5px;
-    background-color: rgba(255, 0, 0, 0.247);
-    box-shadow: 6px 8px 20px 1px;
-    text-shadow: 9px 9px 10px;
-    /* outline: 2px solid; */
-    /* outline-offset: 17px; */
-    border-radius: 10px;
-}
-
-.box{
-    border: 2px solid black;
-    width: 80vw;
-    height: 20vw;
-    margin: 20px auto;
-    padding: 10px;
-    overflow: auto;
+.page-heading {
+	text-align: center;
+	border: 2px solid;
+	width: 85vw;
+	margin: 30px auto;
+	padding: 5px;
+	background-color: rgba(255, 0, 0, 0.247);
+	box-shadow: 6px 8px 20px 1px;
+	text-shadow: 9px 9px 10px;
+	/* outline: 2px solid; */
+	/* outline-offset: 17px; */
+	border-radius: 10px;
 }
 
-.box2{
-    border: 2px solid black;
-    width: 80vw;
-    height: 20vw;
-    margin: 20px auto;
-    padding: 10px;
-    overflow: scroll;
+.box {
+	border: 2px solid black;
+	width: 80vw;
+	height: 20vw;
+	margin: 20px auto;
+	padding: 10px;
+	overflow: auto;
 }
 
-.box3{
-    border: 2px solid black;
-    width: 80vw;
-    height: 20vw;
-    margin: 20px auto;
-    padding: 10px;
-    overflow: hidden;
+.box2 {
+	border: 2px solid black;
+	width: 80vw;
+	height: 20vw;
+	margin: 20px auto;
+	padding: 10px;
+	overflow: scroll;
 }
 
-.box4{
-    border: 2px solid black;
-    width: 80vw;
-    height: 20vw;
-    margin: 20px auto;
-    padding: 10px;
-    overflow: clip;
+.box3 {
+	border: 2px solid black;
+	width: 80vw;
+	height: 20vw;
+	margin: 20px auto;
+	padding: 10px;
+	overflow: hidden;
 }
 
-.box5{
-    border: 2px solid black;
-    width: 80vw;
-    height: 20vw;
-    margin: 20px auto;
-    padding: 10px;
-    overflow: scroll hidden;
+.box4 {
+	border: 2px solid black;
+	width: 80vw;
+	height: 20vw;
+	margin: 20px auto;
+	padding: 10px;
+	overflow: clip;
 }
 
-.box6{
-    border: 2px solid black;
-    width: 80vw;
-    height: 20vw;
-    margin: 20px auto;
-    padding: 10px;
-    overflow: hidden scroll;
+.box5 {
+	border: 2px solid black;
+	width: 80vw;
+	height: 20vw;
+	margin: 20px auto;
+	padding: 10px;
+	overflow: scroll hidden;
 }
 
-.box7{
-    border: 2px solid black;
-    width: 80vw;
-    height: 20vw;
-    margin: 20px auto;
-    padding: 10px;
-    overflow-x: scroll;
-    overflow-y: hidden;
+.box6 {
+	border: 2px solid black;
+	width: 80vw;
+	height: 20vw;
+	margin: 20px auto;
+	padding: 10px;
+	overflow: hidden scroll;
 }
 
-.box8{
-    border: 2px solid black;
-    width: 80vw;
-    height: 20vw;
-    margin: 20px auto;
-    padding: 10px;
-    overflow: auto;
-    white-space: nowrap;
-    text-overflow: ellipsis;
+.box7 {
+	border: 2px solid black;
+	width: 80vw;
+	height: 20vw;
+	margin: 20px auto;
+	padding: 10px;
+	overflow-x: scroll;
+	overflow-y: hidden;
 }
 
-.box-no{
-    display: block;
-    color: rgba(17, 17, 155, 0.589);
-    font-size: 30px;
-    font-weight: bold;
-    text-align: center;
+.box8 {
+	border: 2px solid black;
+	width: 80vw;
+	height: 20vw;
+	margin: 20px auto;
+	padding: 10px;
+	overflow: auto;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+.box-no {
+	display: block;
+	color: rgba(17, 17, 155, 0.589);
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
 }
